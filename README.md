@@ -1,6 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Hello-react-front-end
+> This is a hello rails front-end connected with [Hello-react-back-end repo](https://github.com/butlermuwo/hello-rails-api-back-end-.git) 
+
 ## Built With
 - Dependacies
   ```bash
