@@ -1,6 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Hello-react-front-end
+
+> This is a hello rails front-end connected with [Hello-react-back-end repo](https://github.com/butlermuwo/hello-rails-api-back-end-.git) 
+
 ## Built With
 - Dependacies
   ```bash
@@ -39,7 +42,7 @@ $ npm start
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/butlermuwo/hello-rails-react/issues).
 
 ## Show your support
 
